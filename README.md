@@ -1,8 +1,8 @@
-# Geppetto Help Desk Segreteria Action Public Files
+# GPT Action Assets
 
-Public, secret-free support files for the Custom GPT Action:
+Public, secret-free support files for a Custom GPT Action.
 
 - `privacy-policy.md`
-- `openapi.yaml`
+- `docs/` public privacy policy page
 
-The private Knowledge Base is not stored here.
+No private Knowledge Base content is stored in this repository.
